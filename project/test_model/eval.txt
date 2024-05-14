@@ -1,0 +1,43 @@
+AEv2:
+    Data:       Mean psrn:  28.612094384590762
+                Mean mae:  0.02611791014391929
+
+    BSDS500:    Mean psrn:  29.412185458881275
+                Mean mae:  0.024329921246506275
+CBDNet:
+    Data:       Mean psrn:  28.67190476456337
+                Mean mae:  0.025640650792513042
+
+    BSDS500:    Mean psrn:  29.490482450151582
+                Mean mae:  0.023856364788487554
+DnCNN:
+    Data:       Mean psrn:  28.422603380967512
+                Mean mae:  0.02583450837340206
+    BSDS500:    Mean psrn:  29.38540442492866
+                Mean mae:  0.023962916639633475
+LSC-CNN:
+    Data:       Mean psrn:  28.091203997010062
+                Mean mae:  0.027680795332416894
+
+    BSDS500:    Mean psrn:  29.009431606283083
+                Mean mae:  0.025471388417296112
+RFSUnet:
+    Data:       Mean psrn:  28.227168245988267
+                Mean mae:  0.026995077107101677
+    BSDS500:    Mean psrn:  29.115592304340403
+                Mean mae:  0.024924042023718358
+
+AEv2_Enhan:
+    Data:       Mean psrn:  28.934370479110672
+                Mean mae:  0.024840742918197066
+    BSDS500:    Mean psrn:  29.70101032090788
+                Mean mae:  0.02325589455291629
+
+
+
+
+
+
+
+
+
